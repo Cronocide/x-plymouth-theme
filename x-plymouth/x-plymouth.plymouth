@@ -1,12 +1,12 @@
 [Plymouth Theme]
-Name=Linux Penguin
-Description=Linux penguin theme using the ACPI BGRT graphics as background
+Name=X Plymouth
+Description=A two-step theme for Plymouth.
 ModuleName=two-step
 
 [two-step]
 Font=Inter 12
 TitleFont=Inter Bold 32
-ImageDir=/usr/share/plymouth/themes/linux-penguin
+ImageDir=/usr/share/plymouth/themes/x-plymouth
 DialogHorizontalAlignment=.5
 DialogVerticalAlignment=.5
 TitleHorizontalAlignment=.5
