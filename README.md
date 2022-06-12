@@ -1,4 +1,4 @@
-#x-plymouth
+# x-plymouth
 
 ## A two-step theme for Plymouth.
 
