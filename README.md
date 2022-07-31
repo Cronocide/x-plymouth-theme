@@ -2,6 +2,8 @@
 
 ## A two-step theme for Plymouth.
 
+<img src="./demo.gif" alt="X Plymouth Theme Demo">
+
 ### Installation
 
 ```
